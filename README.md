@@ -15,3 +15,7 @@ Learning Pi
 ## Projects
 1. LED Blink (Folder: /led-blink)
 2. [Future Project Name]
+3. Robotic Telescope (Image Processing/AI Chatbots)
+
+##Daily Updates
+-2025-07-28: Basic Setup of Raspberry pi 5
