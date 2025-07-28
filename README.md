@@ -3,7 +3,7 @@ Learning Pi
 # My Raspberry Pi Learning Journey
 
 ## Progress Tracker
-- [x] Set up Raspberry Pi OS (Date: [Insert Date])
+- [x] Set up Raspberry Pi OS (Date: 2025/07/28)
 - [ ] Complete first LED blink project
 - [ ] Learn Python on Raspberry Pi
 - [ ] Create a weather station project
